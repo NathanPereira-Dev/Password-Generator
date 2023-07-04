@@ -20,3 +20,4 @@ senha = ""
 for char in lista_senha:
     senha += char
 print(f"A sua senha é: {senha}")
+print("hello world")
